@@ -4,7 +4,7 @@ You can find the projects in each branch.
 
 ### Projects build so far:
 1. ReactFacts
-2. 
+2. Airbnb Clone
 
 ### What's MyPlayground?🖤
 I've often found myself deleting small learning projects, like simple counters, after I've practiced with them. Instead of discarding them entirely, I had the idea to store them on GitHub. However, I didn't want my GitHub profile to be cluttered with numerous small projects that might overshadow the larger ones.
